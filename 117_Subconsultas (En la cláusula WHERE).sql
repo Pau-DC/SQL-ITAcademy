@@ -1,3 +1,6 @@
+------- 1.1.7 Subconsultas (En la cláusula WHERE) -------
+
+
 ------- 1.1.7.1 Con operadores básicos de comparación -------
 
 -- 01. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER JOIN).
